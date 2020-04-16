@@ -13,15 +13,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Compilers
 
-* Compilers that let you translate Cobol into something your computer understands *
+*Compilers that let you translate Cobol into something your computer understands*
 
 * [GNU Cobol](http://sourceforge.net/projects/open-cobol/) (```sudo apt-get install open-cobol```)
 
----
 
 ## Frameworks
 
-*web frameworks*
+*Web frameworks and other related*
 
 * [cobol on wheelchair](https://github.com/azac/cobol-on-wheelchair) - Micro web framework for Cobol. The framework your servers deserve.
 
@@ -29,5 +28,4 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Courses
 
 * [Cobol programming course](https://github.com/openmainframeproject/cobol-programming-course) - Cobol programming course on modern machines
-
 * [Cobol on wheelchair tutorial](https://github.com/azac/cobol-on-wheelchair/blob/master/tutorial/index.md) - Tutorial for Cobol on wheelchair web framework
