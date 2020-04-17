@@ -5,11 +5,16 @@ A curated list of awesome Cobol frameworks, libraries, software and resources.
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Cobol](#awesome-python)
+    - [Introduction](#introduction)
     - [Compilers](#compilers)
     - [Frameworks](#frameworks)
     - [Courses](#courses)
 
 ---
+
+## Introduction
+
+* [Cobol in 100 seconds](https://youtu.be/7d7-etf-wNI) - explains Cobol in 2 minutes
 
 ## Compilers
 
@@ -22,10 +27,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Web frameworks and other related*
 
-* [cobol on wheelchair](https://github.com/azac/cobol-on-wheelchair) - Micro web framework for Cobol. The framework your servers deserve.
+* [Cobol on Wheelchair](https://github.com/azac/cobol-on-wheelchair) - Micro web framework for Cobol. The framework your servers deserve.
 
 
 ## Courses
 
 * [Cobol programming course](https://github.com/openmainframeproject/cobol-programming-course) - Cobol programming course on modern machines
-* [Cobol on wheelchair tutorial](https://github.com/azac/cobol-on-wheelchair/blob/master/tutorial/index.md) - Tutorial for Cobol on wheelchair web framework
+* [Cobol on Wheelchair tutorial](https://github.com/azac/cobol-on-wheelchair/blob/master/tutorial/index.md) - Tutorial for Cobol on wheelchair web framework
